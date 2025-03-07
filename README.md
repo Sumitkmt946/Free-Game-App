@@ -1,5 +1,6 @@
 
-![IMG-20250307-WA0022](https://github.com/user-attachments/assets/fd97efb5-3277-4f2c-bfa4-cd53bed75745)  ![IMG-20250307-WA0023](https://github.com/user-attachments/assets/44f13f58-9665-4974-8e40-1141bc097b30)
+![IMG-20250307-WA0022](https://github.com/user-attachments/assets/fd97efb5-3277-4f2c-bfa4-cd53bed75745) 
+![IMG-20250307-WA0023](https://github.com/user-attachments/assets/44f13f58-9665-4974-8e40-1141bc097b30)
 
 
 
@@ -23,6 +24,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/63e7c02e-bea6-472c-8c84-b7af6c30cb70)
+
+
 git clone https://github.com/username/Coloring-Game.git
 
 
@@ -33,5 +36,8 @@ npm install
 
 
 ![image](https://github.com/user-attachments/assets/f88b009e-a083-4ef9-82a1-23e80d9c806c)
+
+
+
 npx expo start
 
