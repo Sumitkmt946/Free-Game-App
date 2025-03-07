@@ -24,7 +24,11 @@
 
 ![image](https://github.com/user-attachments/assets/63e7c02e-bea6-472c-8c84-b7af6c30cb70)
 git clone https://github.com/username/Coloring-Game.git
+
+
 cd Coloring-Game
+
+
 npm install
 
 
